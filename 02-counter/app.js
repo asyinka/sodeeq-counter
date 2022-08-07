@@ -32,7 +32,7 @@ function resetCount(){
     colorChanges();
 }
 
-//function for color changes effect
+//function for color changes effect.
 function colorChanges(){
     if(count === 0){
         valueStyle.color = "black";
